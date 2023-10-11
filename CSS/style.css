@@ -677,6 +677,19 @@ h3.my-profession
     padding-bottom: 60px;
 }
 
+.service .service-heading
+{
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 40px;
+}
+
+.service .service-heading h2
+{
+    color: var(--text-black-900);
+    font-weight: 500;
+}
+
 .service .service-item
 {
     margin-bottom: 30px;
